@@ -29,10 +29,11 @@ body
 button
 {
    border-radius: 50px;
-	border-style: solid 5px #fff;
+	border-style: solid;
 	color: #ffffff;
    background-color: #002869;
-   Border-color: fff;
+   Border-color: #fff;
+   Border-size: 10px;
    Margin-bottom: 15px;
    
 	}
