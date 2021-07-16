@@ -29,11 +29,11 @@ body
 button
 {
    border-radius: 50px;
-	border-style: groove;
+	border-style: solid;
 	color: #ffffff;
    background-color: #002869;
-   Border-size: 5px;
-   Margin-bottom: 10px;
+   Border-color: fff;
+   Margin-bottom: 15px;
    
 	}
 button a
@@ -47,7 +47,7 @@ button a
 }
 button a:hover
 {
-	color: #727272;
+	color: #00aeef;
 }
 .pic
 {
